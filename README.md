@@ -1,4 +1,4 @@
-# 🚀 SIPPIU
+ko# 🚀 SIPPIU
 ## Sistem Informasi Peer-to-Peer Investasi UMKM
 
 Prototype aplikasi web berbasis PHP Native yang dikembangkan sebagai media penghubung antara **Investor** dan **Pelaku UMKM (Borrower)** dalam proses pendanaan usaha secara digital dengan mekanisme Peer-to-Peer (P2P) Lending.
@@ -277,9 +277,6 @@ http://localhost/P2P-Lending-UMKM
 
 ---
 
-# 📸 Screenshot
-
-Tambahkan screenshot berikut sebelum presentasi.
 
 - Login
 - Register
@@ -294,7 +291,14 @@ Tambahkan screenshot berikut sebelum presentasi.
 
 # 👨‍🎓 Developer
 
-Proyek ini dikembangkan oleh Kelompok __
+Proyek ini dikembangkan oleh 
+Kelompok 5
+- Hendriaman Waruwu
+- Rio Ardiyansyah 
+- Furqon
+- Hasran Taufik
+- Dimas Bayu
+- Edwin Octavin
 
 Program Studi Informatika
 
